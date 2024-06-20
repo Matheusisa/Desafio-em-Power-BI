@@ -59,10 +59,6 @@ Para abrir e visualizar o arquivo "Gestão de Vendas.pbix", é necessário:
 
 ![Descrição da Imagem](gestãodevendas.png)
 
-## Autores
-
-Este projeto foi desenvolvido por Matheus de Oliveira. Para mais informações ou suporte, entre em contato pelo e-mail [seuemail@dominio.com].
-
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
